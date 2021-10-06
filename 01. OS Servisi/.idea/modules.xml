@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01. OS Servisi.iml" filepath="$PROJECT_DIR$/.idea/01. OS Servisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02. Pythonic programiranje/.idea/02. Pythonic programiranje.iml" filepath="$PROJECT_DIR$/../02. Pythonic programiranje/.idea/02. Pythonic programiranje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03. Generatori/.idea/03. Generatori.iml" filepath="$PROJECT_DIR$/../03. Generatori/.idea/03. Generatori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03. Rekurzija i Generatori/.idea/03. Rekurzija i Generatori.iml" filepath="$PROJECT_DIR$/../03. Rekurzija i Generatori/.idea/03. Rekurzija i Generatori.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+last_name,email
+Capell,lcapell0@imageshack.us
+Ridout,gridout1@earthlink.net
+D'Antuoni,ldantuoni2@aboutads.info
+Westoll,fwestoll3@vimeo.com
+Kenewel,kkenewel4@huffingtonpost.com
+MacGhee,kmacghee5@psu.edu
+Sanson,msanson6@imageshack.us
+Winspire,bwinspire7@printfriendly.com
+Woollends,rwoollends8@nasa.gov
+Foxten,cfoxten9@livejournal.com
+Duckwith,jduckwitha@oracle.com
+Nutbeem,hnutbeemb@exblog.jp
+Marini,pmarinic@slate.com
+Moneti,nmonetid@aboutads.info
+Pennington,jpenningtone@dailymail.co.uk
