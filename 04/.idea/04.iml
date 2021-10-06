@@ -4,9 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="02. Pythonic programiranje" />
-    <orderEntry type="module" module-name="03. Generatori" />
-    <orderEntry type="module" module-name="03. Rekurzija i Generatori" />
-    <orderEntry type="module" module-name="04" />
   </component>
 </module>

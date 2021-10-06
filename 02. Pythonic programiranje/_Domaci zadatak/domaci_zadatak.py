@@ -1,5 +1,6 @@
 import datetime
 from itertools import permutations
+import os
 
 
 def main():
@@ -81,11 +82,12 @@ def main():
     l8 = [dict(zip(dict1, el)) for el in zip(*dict1.values())]
     print(l8)
 
-    # Mrzi me jako da radim OS zadatke xDDD
-
     # Zadatak 3_1
     # Kreirati program koji za zadatu putanju vraca listu foldera i vraca listu fajlova.
-    # Liste kreirati koriscenjem list comprehension funkcionalnost.
+    # Liste kreirati koriscenjem list comprehension funkcionalnosti.
+    list_fils = [f for f in os.listdir(os.getcwd()) if not os.path.isdir(f)]
+    list_dirs = [d for d in os.listdir(os.getcwd()) if os.path.isdir(d)]
+    print(f"Files: {list_fils}, Directories: {list_dirs}.")
 
     # Zadatak 3_2
     # Napisati program koji dozvoljava korisniku da sa standardnog ulaza kreira tekstualni fajl

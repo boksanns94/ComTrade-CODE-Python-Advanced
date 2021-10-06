@@ -39,10 +39,13 @@ def zadatak_3(dir):
 
 
 def main():
+    # Zadatak 1
     p = os.getcwd()
     zadatak_1(p)
+    # Zadatak 2
     parents = [os.getcwd() for i in range(3)]
     zadatak_2(parents)
+    # Zadatak 3
     d = os.getcwd()
     zadatak_3(d)
 
